@@ -3,6 +3,9 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+***Version 1.2.0:***
+  - Added functionality to check if all asset folders have N's in them.
+  - Added functionality to check if asset folder names are in accordance with GIS structure IDs.
 
 ***Version 1.1.0:***
-  - Script now updates online
+  - App now updates online
