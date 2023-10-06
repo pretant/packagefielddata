@@ -9,3 +9,7 @@ permalink: /versionhistory/
 
 ***Version 1.1.0:***
   - App now updates online
+
+***Version 1.0.0:***
+  - The app is inteded to name the zipped folder properly
+  - The app deletes hidden Mac files and zips the folder
