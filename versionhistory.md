@@ -3,6 +3,10 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+
+***Version 1.2.1:***
+  - Zipping now includes the main folder in the zipped file.
+
 ***Version 1.2.0:***
   - Added functionality to check if all asset folders have N's in them.
   - Added functionality to check if asset folder names are in accordance with GIS structure IDs.
