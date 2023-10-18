@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 1.2.2:***
+  - Added buttons that will direct users to EOD and Weekend Travel Home Forms.
+
 ***Version 1.2.1:***
   - Zipping now includes the main folder in the zipped file.
 
