@@ -4,6 +4,13 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.0.0:***
+  - New and improved UI.
+  - Removed "Copy" button.
+  - Added "Copy Structure IDs" button that copies the folder names (structure IDs) of the folders in the directory.
+  - The text box now shows the list of structure IDs in the directory once the directory is chosen.
+  - Minor bug fixes and improvements.
+
 ***Version 1.2.2:***
   - Added buttons that will direct users to EOD and Weekend Travel Home Forms.
 
