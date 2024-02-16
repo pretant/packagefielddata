@@ -6,13 +6,14 @@ permalink: /versionhistory/
 
 ***Version 2.1.0:*** (What the script does:)
   - Name and zip data folder properly (regular vs RTVs)
+  - Summary of issues is listed and in red fonts
   - Copy structure IDs to paste in Upload Check
   - Delete hidden Mac files
   - Check for missing N on nadir
   - Check for potential misnamed folders
   - Check for incorrect image dates
-  - Calculate distance of nadir coordinates from GIS stucture coordinates (and flags user if distance >500 ft to create appropriate GIS notes)
-  - Separate EZ poles from regular structures (Distro EZ Poles, Trans EZ Poles, and EZ Poles in both)
+  - Calculate distance of nadir coordinates from GIS stucture coordinates and flags user if distance is greater than 500 ft.
+  - Separate EZ poles from regular structures (Distro only EZ Poles, Trans only EZ Poles, and EZ Poles in both)
   - Provide links to Upload Check page, Field Uploads page, and EOD form page for distro and trans
 
 ***Version 2.0.0:***
