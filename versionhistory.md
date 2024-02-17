@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.1:***
+  - Minor bug fixes and improvements.
+
 ***Version 2.1.0:*** (What the script does:)
   - Name and zip data folder properly (regular vs RTVs)
   - Summary of issues is listed and in red fonts
