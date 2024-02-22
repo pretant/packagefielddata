@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.2:***
+  - Fixed a bug where script is not recognizing multiple structures in a folder properly
+  - Minor bug fixes and GUI improvements.
+
 ***Version 2.1.1:***
   - Minor bug fixes and improvements.
 
