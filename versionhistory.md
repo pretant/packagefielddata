@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.3:***
+  - For multiple structures issues, farthest distance and the farthest image are now added to the text
+  - Fixed a bug where script is not able to compare image dates and flight date 
+  - Minor bug fixes and GUI improvements.
+
 ***Version 2.1.2:***
   - Fixed a bug where script is not recognizing multiple structures in a folder properly
   - Minor bug fixes and GUI improvements.
