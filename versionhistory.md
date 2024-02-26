@@ -4,8 +4,15 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.4:***
+  - Team Number field is now limited to 101 to 199 or 501 to 599.
+  - Added printed information for each folder.
+  - Fixed a bug where structure ID's with no 'E' suffix (transmission towers) are not found in GIS
+  - Minor bug fixes and GUI improvements.
+
 ***Version 2.1.3:***
-  - For multiple structures issues, farthest distance and the farthest image are now added to the text
+  - For multiple structures issues, the farthest distance number and the farthest image name are now added to the printed text
+  - Script now only renames the folder after all issues are fixed (right before zipping).
   - Fixed a bug where script is not able to compare image dates and flight date 
   - Minor bug fixes and GUI improvements.
 
@@ -39,7 +46,7 @@ permalink: /versionhistory/
   - Added buttons that will direct users to EOD and Weekend Travel Home Forms.
 
 ***Version 1.2.1:***
-  - Zipping now includes the main folder in the zipped file.
+  - Zipping now includes the main folder in the zipped file (i.e., when you open the zipped file, you'll see one folder that contains the structure folder. Before, you'll see the structure folders right away).
 
 ***Version 1.2.0:***
   - Added functionality to check if all asset folders have N's in them.
