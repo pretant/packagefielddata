@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.5:***
+  - Added a "Copy" function when user right-clicks on the textbox area.
+  - Removed RTV functionality.
+  - Minor bug fixes and GUI improvements.
+
 ***Version 2.1.4:***
   - Team Number field is now limited to 101 to 199 or 501 to 599.
   - Added printed information for each folder.
