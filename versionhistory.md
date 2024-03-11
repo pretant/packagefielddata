@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.6:***
+  - Added a "Cancel Zipping" button that stops the zipping process and deletes the partially zipped folder.
+  - Script can now be used offline.
+  - Minor bug fixes and GUI improvements.
+
 ***Version 2.1.5:***
   - Added a "Copy" function when user right-clicks on the textbox area.
   - Removed RTV functionality.
