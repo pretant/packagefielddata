@@ -5,6 +5,10 @@ permalink: /versionhistory/
 ---
 
 ***Version 2.1.6:***
+  - Added new GIS structures to the list
+  - Minor bug fixes and GUI improvements.
+
+***Version 2.1.6:***
   - Added a "Cancel Zipping" button that stops the zipping process and deletes the partially zipped folder.
   - Script can now be used offline.
   - Minor bug fixes and GUI improvements.
