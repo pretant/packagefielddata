@@ -4,7 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 2.1.6:***
+***Version 2.1.8:*** (3/13/2024)
+  - Fixed a bug causing completed zip files to be erroneously canceled and deleted.
+  - Minor bug fixes and GUI improvements.
+
+***Version 2.1.7:*** (3/12/2024)
   - Added new GIS structures to the list
   - Minor bug fixes and GUI improvements.
 
