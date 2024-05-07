@@ -3,6 +3,9 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+***Version 2.1.10:*** (5/7/2024)
+  - Updated structure master list.
+  - Minor bug fixes and improvements.
 
 ***Version 2.1.9:*** (4/11/2024)
   - Updated structure master list.
