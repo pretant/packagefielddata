@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.12:*** (6/3/2024)
+  - Updated structure master list.
+
 ***Version 2.1.11:*** (5/8/2024)
   - Bug fix regarding OH- prefixes.
 
