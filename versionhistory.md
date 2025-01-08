@@ -4,8 +4,14 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.2.0:*** (6/3/2024)
+  - Updated master structure list.
+  - Update Team Number format
+  - Now generates a text file that lists all the structure IDs that are in the directory
+  - Now creates a copy of all EZ Poles and place them in a new folder "EZPolesForTrans"
+
 ***Version 2.1.12:*** (6/3/2024)
-  - Updated structure master list.
+  - Updated master structure list.
 
 ***Version 2.1.11:*** (5/8/2024)
   - Bug fix regarding OH- prefixes.
