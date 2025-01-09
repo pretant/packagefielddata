@@ -6,9 +6,9 @@ permalink: /versionhistory/
 
 ***Version 2.2.0:*** (6/3/2024)
   - Updated master structure list.
-  - Update Team Number format
-  - Now generates a text file that lists all the structure IDs that are in the directory
-  - Now creates a copy of all EZ Poles and place them in a new folder "EZPolesForTrans"
+  - Updated Team Number format.
+  - Now generates a text file that lists all the structure IDs that are in the directory.
+  - Now creates a copy of all EZ Poles and place them in a new folder "EZPolesForTrans".
 
 ***Version 2.1.12:*** (6/3/2024)
   - Updated master structure list.
