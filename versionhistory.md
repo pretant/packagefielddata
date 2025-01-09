@@ -5,6 +5,11 @@ permalink: /versionhistory/
 ---
 
 ***Version 2.2.0:*** (6/3/2024)
+  - Updated Field Upload links.
+  - Moved Flight Date entry field to second row, next to Team Number field.
+  - Added step numbers in front of each button and entry label so users know the order in which to click or fill them out
+
+***Version 2.2.0:*** (6/3/2024)
   - Updated master structure list.
   - Updated Team Number format.
   - Now generates a text file that lists all the structure IDs that are in the directory.
