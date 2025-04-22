@@ -4,8 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.2.4:*** (4/22/2025)
+  - Fixed a bug where script gets stuck at finding issues with structures.
+
 ***Version 2.2.3:*** (4/21/2025)
-  - Fixed a bug where list is not found.
+  - Fixed a bug where structure list is not found.
 
 ***Version 2.2.2:*** (4/21/2025)
   - Updated master structure list.
