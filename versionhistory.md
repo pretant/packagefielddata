@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.2.6:*** (6/19/2025)
+  - Updated master structure list.
+  - Fixed bugs and made some performance improvements.
+
 ***Version 2.2.5:*** (4/21/2025)
   - Updated master structure list.
 
