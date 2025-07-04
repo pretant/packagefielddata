@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.3.0:*** (6/24/2025)
+  - Updated master structure list.
+  - Removed EZ Pole in Both Scopes duplication process.
+  - Fixed bugs and made some performance improvements.
+
 ***Version 2.2.7:*** (6/24/2025)
   - Updated master structure list.
   - Fixed bugs and made some performance improvements.
